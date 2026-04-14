@@ -8,9 +8,3 @@ This project uses Machine Learning to detect emotions from human speech. By anal
 - **Web Interface:** A simple, interactive UI built with Streamlit for easy testing.
 - **Supported Emotions:** Neutral, Calm, Happy, Sad, Angry, Fearful, Disgust, and Surprised.
 
-## 🛠️ Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-link>
-   cd "Speech Emotion Detection"
